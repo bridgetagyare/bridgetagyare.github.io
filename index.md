@@ -6,13 +6,13 @@ layout: default
 
 <img class="profile-picture" src="cropped-image.png">
 
-Hi! My name is Bridget Agyare, and I am a first year Computer Science PhD candiate in the Computers and Education group at the University of Illinois at Urbana-Champaign. My research interests lie within CS Education, with a focus on broadening participation in computing. Previously, I earned my bachelor's degree in Electrical Engineering and Computer Science at the University of California at Berkeley, where I was advised by Dr. Gireeja Ranade.
+Hi! My name is Bridget Agyare, and I am a first year Computer Science PhD candiate in the Computers and Education group at the University of Illinois at Urbana-Champaign. My research interests lie within CS Education, with a focus on broadening participation in computing. Previously, I earned my bachelor's degree in Electrical Engineering and Computer Science at the University of California at Berkeley, where I was advised by Dr. Gireeja Ranade.<br><br>
   
   
   
   
   
-[[Twitter]](https://x.com/bridgetagyare)[[LinkedIn]](https://www.linkedin.com/in/bridgetagyare119/)[[Github]](https://github.com/bridgetagyare)[[Google Scholar]](https://github.com/bridgetagyare)
+[[Twitter]](https://x.com/bridgetagyare)[[LinkedIn]](https://www.linkedin.com/in/bridgetagyare119/)[[Github]](https://github.com/bridgetagyare)[[Google Scholar]](https://github.com/bridgetagyare)<br><br>
   
 
 ## 💖 News 💖
