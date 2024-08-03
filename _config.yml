@@ -1,10 +1,4 @@
-# title: Researcher
-# url: "https://ankitsultana.com"
-# baseurl: "/researcher"
-
-title: Bridget Agyare's Personal Website
-description: >- 
-  A personal website to showcase my portfolio and projects.
+title: Bridget Agyare
 baseurl: "/"
 url: "https://bridgetagyare.github.io"
 
@@ -26,5 +20,5 @@ nav:
    link: "/researcher/"
  - name: "CV"
    link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+#  - name: "Contact"
+#    link: "contact"
