@@ -14,16 +14,13 @@ Hi! My name is Bridget Agyare, and I am a first year Computer Science PhD candia
 \
 \
 \
-\
-\
-\
 
 ## News
-[Aug. 2024] I am starting my PhD at UIUC!
+💖 [Aug. 2024] I am starting my PhD at UIUC!
 
 ## Publications
-<strong>Student Feedback on Opt-in, Inclusive, Course-Integrated Study Groups.<strong>
-Bridget Agyare, Alicia Matsumoto, Manooshree Patel, and Gireeja Ranade
+<strong>Student Feedback on Opt-in, Inclusive, Course-Integrated Study Groups.<strong> \
+Bridget Agyare, Alicia Matsumoto, Manooshree Patel, and Gireeja Ranade \
 2023 IEEE Frontiers in Education Conference (FIE)
 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10343384)
 
