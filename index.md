@@ -11,8 +11,6 @@ Hi! My name is Bridget Agyare, and I am a first year Computer Science PhD candia
 \
 \
 \
-\  
-\  
 
 ## 💖 News 💖
 * [Aug. 2024] I am starting my PhD at UIUC!
@@ -20,7 +18,7 @@ Hi! My name is Bridget Agyare, and I am a first year Computer Science PhD candia
 ## 💖 Publications 💖
 <strong>Student Feedback on Opt-in, Inclusive, Course-Integrated Study Groups.</strong> \
 Bridget Agyare, Alicia Matsumoto, Manooshree Patel, and Gireeja Ranade \
-2023 IEEE Frontiers in Education Conference (FIE) \
+IEEE Frontiers in Education Conference (FIE) 2023 \
 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10343384)
 
 <!-- 1. F.Bar, J.Doe: Effects of having a placeholder of a name
