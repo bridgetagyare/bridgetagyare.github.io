@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="cropped-image.png" alt="Bridget Agyare">
 
-Hi! My name is Bridget Agyare (pronounced A-jar-ee), and I am a first-year Computer Science PhD student in the Computers and Education group at the University of Illinois, Urbana-Champaign. I am currently being advised by Dr. Colleen Lewis. My research interests lie in CS Education, with a focus on broadening participation in computing. Previously, I earned my bachelor’s degree in Electrical Engineering and Computer Science at the University of California, Berkeley, where I was advised by Dr. Gireeja Ranade.<br><br>
+Hi! My name is Bridget Agyare (pronounced A-jar-ee), and I am a first-year Computer Science PhD student in the Computers and Education group at the University of Illinois, Urbana-Champaign. I am currently being advised by Dr. Colleen Lewis. My research interests lie in CS education, with a focus on broadening participation in computing. Previously, I earned my bachelor’s degree in Electrical Engineering and Computer Science at the University of California, Berkeley, where I was advised by Dr. Gireeja Ranade.<br><br>
   
   
   
