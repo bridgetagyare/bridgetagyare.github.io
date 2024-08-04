@@ -12,7 +12,7 @@ Hi! My name is Bridget Agyare (pronounced A-jar-ee), and I am a first-year Compu
   
   
   
-[[Twitter/X]](https://x.com/bridgetagyare)[[LinkedIn]](https://www.linkedin.com/in/bridgetagyare119/)[[Github]](https://github.com/bridgetagyare)[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=4R8HX78AAAAJ&view_op=list_works&authuser=1&gmla=AETOMgH8XqlSuMfTafGLclU0yFpIxJV-Kg81_vYNhE4s8FkRdCE_gciSL80owKfWIaNy_OBFlBkHgvvY7_IyCOgv)<br><br>
+[[Twitter/X]](https://x.com/bridgetagyare)[[LinkedIn]](https://www.linkedin.com/in/bridgetagyare119/)[[Github]](https://github.com/bridgetagyare)[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=4R8HX78AAAAJ&view_op=list_works&authuser=1&gmla=AETOMgH8XqlSuMfTafGLclU0yFpIxJV-Kg81_vYNhE4s8FkRdCE_gciSL80owKfWIaNy_OBFlBkHgvvY7_IyCOgv)<br><br><br>
   
 
 ## 💖 News 💖
