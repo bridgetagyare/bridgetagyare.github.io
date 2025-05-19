@@ -1,4 +1,4 @@
-title: Bridget Agyare (she/her)
+title: Bridget Agyare
 baseurl: "/"
 url: "https://bridgetagyare.github.io"
 
@@ -19,6 +19,6 @@ nav:
  - name: "About"
    link: "/"
  - name: "CV"
-   link: "bagyare_cv_oct24.pdf"
+   link: "bagyare_cv_may25.pdf"
 #  - name: "Contact"
 #    link: "contact"
