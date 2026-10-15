@@ -14,7 +14,7 @@ Hi! My name is Bridget Agyare (pronounced A-jar-ee), and I am a third-year Compu
 [[Twitter/X]](https://x.com/bridgetagyare)[[LinkedIn]](https://www.linkedin.com/in/bridgetagyare119/)[[Github]](https://github.com/bridgetagyare)[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=4R8HX78AAAAJ&view_op=list_works&authuser=1&gmla=AETOMgH8XqlSuMfTafGLclU0yFpIxJV-Kg81_vYNhE4s8FkRdCE_gciSL80owKfWIaNy_OBFlBkHgvvY7_IyCOgv)[[Bluesky]](https://bsky.app/profile/bridgetagyare.bsky.social)<br><br><br><br>
   
 
-## 💖 News 💖
+<!-- ## 💖 News 💖
 * [Jul. 2025] I will be attending the RESPECT Doctoral Consortium in Newark, NJ. Looking forward to connecting with other researchers and educators ⭐️
 * [Feb. 2025] I presented a poster at my first SIGCSE conference!
 * [Aug. 2024] I am starting my PhD at UIUC!
@@ -23,7 +23,7 @@ Hi! My name is Bridget Agyare (pronounced A-jar-ee), and I am a third-year Compu
 <strong>Student Feedback on Opt-in, Inclusive, Course-Integrated Study Groups.</strong> \
 Bridget Agyare, Alicia Matsumoto, Manooshree Patel, and Gireeja Ranade \
 IEEE Frontiers in Education Conference (FIE) 2023 \
-[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10343384)
+[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10343384) -->
 
 <!-- 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
